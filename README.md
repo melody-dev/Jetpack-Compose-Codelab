@@ -2,6 +2,7 @@
 
 ### Tech Stack
 - Jetpack Compose
+- Coroutine / Flow
 - Hilt
 - Ktor
 
